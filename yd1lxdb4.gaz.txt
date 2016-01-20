@@ -1,0 +1,27 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .gitignore
+#	new file:   .project
+#	new file:   .settings/org.eclipse.core.resources.prefs
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   .settings/org.eclipse.m2e.core.prefs
+#	new file:   pom.xml
+#	new file:   src/main/java/com/adeccotraining/progettoMaven/App.java
+#	new file:   src/main/java/com/adeccotraining/progettoMaven/BankAccount.java
+#	new file:   src/test/java/com/adeccotraining/progettoMaven/AppTest.java
+#	new file:   src/test/java/com/adeccotraining/progettoMaven/TestBankAccount.java
+#	new file:   target/classes/com/adeccotraining/progettoMaven/App.class
+#	new file:   target/classes/com/adeccotraining/progettoMaven/BankAccount.class
+#	new file:   target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+#	new file:   target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+#	new file:   target/test-classes/com/adeccotraining/progettoMaven/AppTest.class
+#	new file:   target/test-classes/com/adeccotraining/progettoMaven/TestBankAccount.class
+#
+
